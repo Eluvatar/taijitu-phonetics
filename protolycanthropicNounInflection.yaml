@@ -1,0 +1,48 @@
+---
+word:
+  - root
+  - case
+  - plural
+  - determiner
+case:
+  animate:
+    - ka
+    - ta
+    - tŕ
+    - ji
+    - ju
+    - ku
+    - ca
+    - ti
+    - te
+  inanimate:
+    - ko
+    - ni
+    - ho
+    - po
+    - mu
+    - ki
+    - de
+    - si
+    - rŕ
+plural:
+  normal: 
+    - ""
+  abnormal:
+    - ci
+determiner:
+  singular:
+    - ""
+    - su
+    - ba
+    - pu
+    - va
+    - na
+    - do
+    - kŕ
+  plural:
+    - ""
+    - vaha
+    - naha
+    - doha
+    - kŕha
