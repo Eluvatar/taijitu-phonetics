@@ -1,5 +1,7 @@
 #!/usr/bin/ruby
 
+$: << '.'
+
 if ( ARGV.size != 1 )
   $stderr.puts 'Usage: soundChange.rb [soundchangesfile]'
 else 
